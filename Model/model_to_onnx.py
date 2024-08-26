@@ -71,3 +71,4 @@ if __name__ == "__main__":
     
     print('\nIR version:', onnx_model.ir_version)
     print('ONNX model exported to:', onnx_model_path)
+    
