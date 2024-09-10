@@ -10,7 +10,7 @@ DATA_PATH = './CelebA_Spoof_crop'
 class CelebAattr(object):
     # indexes 0 - 39
     FACE_ATTR = [
-        '5_o_Clock_Shadow', 'Arched_Eyebrows', 'Attractive', 'Bags_Under_Eyes', 'Balds',
+        '5_o_Clock_Shadow', 'Arched_Eyebrows', 'Attractive', 'Bags_Under_Eyes', 'Bald',
         'Bangs', 'Big_Lips', 'Big_Nose', 'Black_Hair', 'Blond_Hair',
         'Blurry', 'Brown_Hair', 'Bushy_Eyebrows', 'Chubby', 'Double_Chin',
         'Eyeglasses', 'Goatee', 'Gray_Hair', 'Heavy_Makeup', 'High_Cheekbones',
